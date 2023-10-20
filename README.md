@@ -1,7 +1,7 @@
 Jorge Monteiro, 23 · 
 Software Engineering student at UOC · 
 Located in Andorra · 
-Software Developer at Perfumeria Júlia · 
+Backend Software Developer at AndSoft · 
 
 
 <!---
